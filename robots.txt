@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://w25536.github.io/sitemap.xml
