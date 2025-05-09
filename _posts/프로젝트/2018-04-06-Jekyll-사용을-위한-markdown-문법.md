@@ -2,7 +2,7 @@
 title: "편안한 Jekyll 사용을 위한 마크다운(markdown) 문법"
 last_modified_at: 2018-04-06
 categories:
-
+  - skttechacademy
 tags:
   - jekyll
 excerpt: "편안한 Jekyll 사용을 위한 마크다운(markdown) 문법 정리"

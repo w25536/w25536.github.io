@@ -25,12 +25,8 @@ def update_frontmatter(filepath):
     date_match = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(filepath))
     last_modified_at = date_match.group(1) if date_match else datetime.now().strftime('%Y-%m-%d')
     
-    # Extract categories, defaulting to "프로젝트" if not found
-    categories_match = re.search(r'categories:\s*\n((?:  -.*\n)*)', frontmatter)
-    if categories_match:
-        categories = categories_match.group(1)
-    else:
-        categories = '  - 프로젝트\n'
+    # Extract categories but use "skttechacademy" instead
+    categories = '  - skttechacademy\n'
     
     # Extract tags
     tags_match = re.search(r'tags:\s*\n((?:  -.*\n)*)', frontmatter)

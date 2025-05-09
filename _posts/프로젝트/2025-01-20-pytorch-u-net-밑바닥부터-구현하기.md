@@ -2,7 +2,7 @@
 title: "[Pytorch] U-Net 밑바닥부터 구현하기"
 last_modified_at: 2025-01-20
 categories:
-
+  - skttechacademy
 tags:
   - python
   - 파이썬

@@ -2,7 +2,7 @@
 title: "Pandas와 scikit-learn으로 정말 간단한 pre-processing 몇 가지 팁"
 last_modified_at: 2018-07-11
 categories:
-  - 프로젝트
+  - skttechacademy
 tags:
   - pre-processing
   - scikit-learn

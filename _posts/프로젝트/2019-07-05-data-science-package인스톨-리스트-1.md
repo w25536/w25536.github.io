@@ -2,7 +2,7 @@
 title: "Data Science (데이터 분석)을 위한 python package 리스트(1) - 필수 패키지"
 last_modified_at: 2019-07-05
 categories:
-  - 프로젝트
+  - skttechacademy
 tags:
   - data_science
   - python

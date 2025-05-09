@@ -2,7 +2,7 @@
 title: "torchtext를 활용한 텍스트 데이터 전처리 방법"
 last_modified_at: 2023-01-18
 categories:
-  - 프로젝트
+  - skttechacademy
 tags:
   - python
   - 파이썬

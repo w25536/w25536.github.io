@@ -2,7 +2,7 @@
 title: "AI 심화 day6"
 last_modified_at: 2025-01-24
 categories:
-
+  - skttechacademy
 tags:
   - python
   - 파이썬
