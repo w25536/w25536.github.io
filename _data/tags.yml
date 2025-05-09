@@ -1,4 +1,3 @@
-- AI
 - Computer Vision
 - 3D Vision
 - Audio and Speech Processing
@@ -7,6 +6,7 @@
 - Diffusion
 - Transformer
 - ViT
+- DiT
 - LLM
 - Large Multimodal Model
 - Gaussian Splatting
@@ -51,6 +51,7 @@
 - Inpainting
 - Image-to-3D
 - Self-Supervised Learning
+- Mesh Generation
 - Language Generation
 - Music Generation
 - Video Classification
@@ -64,6 +65,7 @@
 - Text-to-Music
 - Image-to-Video
 - Text-To-Image
+- Personalization
 - Neural Audio Codec
 - Surface Reconstruction
 - 3D Segmentation
@@ -97,3 +99,4 @@
 - Pose Refinement
 - MuJoCo
 - VSCode
+- DUSt3R

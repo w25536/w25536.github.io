@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://w25536.github.io/sitemap.xml
+Sitemap: https://kimjy99.github.io/sitemap.xml
