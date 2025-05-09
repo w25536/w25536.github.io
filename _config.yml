@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "나만의 공간"
+title                    : "전생했더니 인공지능이었던 건에 대하여"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jeongho Suh"
+name                     : "kimjy99"
 description              : "이것저것 공부한 거 적는 아카이브 (feat. AI)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeongho Suh"
+  name             : "JiYeop Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Diffusion은 신이고 GPT는 무적이다"
   location         : "Seoul, Korea"
-  email            : "ucbqsuh@ucl.ac.uk"
+  email            : "99edward@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/w25536"
+      url: "https://github.com/kimjy99"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -290,6 +290,3 @@ defaults:
       comments: # true
       share: false
       related: true
-      classes: wide
-      toc: true
-      toc_sticky: true
