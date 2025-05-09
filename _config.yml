@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "전생했더니 인공지능이었던 건에 대하여"
+title                    : "생각을 글로 정리하는 나만의 공간"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "kimjy99"
-description              : "이것저것 공부한 거 적는 아카이브 (feat. AI)"
+name                     : "Jeongho Suh"
+description              : "생각을 글로 정리하는 나만의 공간"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "JiYeop Kim"
+  name             : "Jeongho Suh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Diffusion은 신이고 GPT는 무적이다"
+  bio              : "생각을 글로 정리하는 나만의 공간"
   location         : "Seoul, Korea"
-  email            : "99edward@snu.ac.kr"
+  email            : "ucbqsuh@ucl.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul
 
