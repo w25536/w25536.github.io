@@ -2,7 +2,7 @@
 title: "U-Net: Convolutional Networks for Biomedical 논문분석"
 last_modified_at: 2025-01-20
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - python
   - 파이썬

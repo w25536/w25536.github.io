@@ -2,7 +2,7 @@
 title: "Google Colaboratory에 대한 간단 팁과 활용법"
 last_modified_at: 2018-09-07
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - colaboratory
   - cnn

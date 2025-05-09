@@ -2,7 +2,7 @@
 title: "논문 리뷰 : Adding Conditional Control to Text-to-Image Diffusion Models"
 last_modified_at: 2025-01-29
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - python
   - 파이썬

@@ -2,7 +2,7 @@
 title: "Advanced Python: 반복처리와 함수형 프로그래밍"
 last_modified_at: 2025-01-19
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
 
 excerpt: "Advanced Python: 반복처리와 함수형 프로그래밍 정리"

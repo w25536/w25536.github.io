@@ -2,7 +2,7 @@
 title: "[팀프로잭트] Sementaic segmentation 이용한 Wall mask 마스크 고도화 및 추출"
 last_modified_at: 2025-02-07
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - pytorch
   - 파이토치

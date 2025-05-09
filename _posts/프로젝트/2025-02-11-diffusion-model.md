@@ -2,7 +2,7 @@
 title: "[팀프로젝트] 마지막 논문 "
 last_modified_at: 2025-02-11
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - python
   - 파이썬

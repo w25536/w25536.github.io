@@ -2,7 +2,7 @@
 title: "[팀프로젝트] Wall Segmentation 코드 구현 및 테스팅"
 last_modified_at: 2025-02-01
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - python
   - 파이썬

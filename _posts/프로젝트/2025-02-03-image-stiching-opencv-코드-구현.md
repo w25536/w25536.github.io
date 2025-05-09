@@ -2,7 +2,7 @@
 title: "[팀프로젝트] OpenCV 이미지 레지스트레이션 통한 이미지 합치기 코드 구현"
 last_modified_at: 2025-02-03
 categories:
-  - skttechacademy
+  - 부트캠프
 tags:
   - python
   - 파이썬
