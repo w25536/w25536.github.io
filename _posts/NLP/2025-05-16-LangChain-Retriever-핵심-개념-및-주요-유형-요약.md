@@ -22,7 +22,7 @@ use_math: true
 classes: wide
 ---
 
-필자는  <https://databoom.tistory.com/entry/Langchain-Retriever-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0> 아래 내용을 가져 왔다. 앞으로 이 내용을 기준으로 제가 사용하는 방법도 순차적으로 추가해보겠다.
+필자는  https://databoom.tistory.com/entry/Langchain-Retriever-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 아래 내용을 가져 왔다. 앞으로 이 내용을 기준으로 제가 사용하는 방법도 순차적으로 추가해보겠다. 
 
 ## Retriever 종류 요약
 
@@ -55,6 +55,9 @@ classes: wide
 |                                     | 장점  | 간단한 구현                                                                                                                                                                                                                                       |
 |                                     | 단점  | - 모델별 편향적임 (모든 모델이 맨 끝의 내용을 중요하게 반영하는지 확인 필요)<br>- 맥락 훼손 가능성<br>- 청크 선별 정확도가 보장 되어야 함                                                                                                                                                        |
 
+
+
+
 # 3. Retriever 만들기
 
 ## 3.1 Vectorstore Retriever
@@ -72,16 +75,18 @@ vectorstore = FAISS.from_documents(docs, embeddings)
 retriever = vectorstore.as_retriever()
 ```
 
+
 **전체 코드**  
 실행 순서:
 
 1. 문서를 청크로 분할 (`CharacterTextSplitter`)
-
+    
 2. 임베딩 생성 (`OpenAIEmbeddings`)
-
+    
 3. 벡터스토어 구축 (`FAISS`)
-
+    
 4. Retriever 정의 (`vectorstore.as_retriever()`)
+    
 
 ```python
 from langchain.embeddings import OpenAIEmbeddings
@@ -377,11 +382,11 @@ chain.invoke(
 # 5. 실제 프로젝트에서 필요한 사항 정리
 
 - **서비스 단계**: Vectorstore Retriever로 시작하거나, 상황에 맞는 Retriever 선택
-
+    
 - **Retriever 성능 평가**: 문서를 제대로 검색하는지 검증
-
+    
 - **운영 단계**: 대규모 채팅 데이터·벡터스토어 분석 후 최적의 Retriever로 조정
-
+    
 - **채팅 데이터 분석**: 주제별 출현 빈도 파악
-
+    
 - **벡터스토어 분석**: 수집 데이터 변화 여부 확인 (초기 가정 대비)
