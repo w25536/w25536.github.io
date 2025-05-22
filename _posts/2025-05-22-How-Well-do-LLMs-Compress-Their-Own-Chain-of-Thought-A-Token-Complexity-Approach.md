@@ -11,12 +11,12 @@ classes: wide
 ---
 
 
-> [!NOTE]
-> arXiv 2025 [page](https://arxiv.org/pdf/2503.01141) 
+
+> arXiv 2025 [Page](https://arxiv.org/pdf/2503.01141)]
 > Ayeong Lee, Ethan Che, Tianyi Peng
 > Affiliations not specified
 > 3 Mar 2025 (v1), last revised 1 Apr 2025 (v2)
-> 
+
 
 
 **논문 정리**
