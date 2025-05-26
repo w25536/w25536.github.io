@@ -1,5 +1,5 @@
 ---
-title: "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs"
+title: "[논문리뷰] Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs"
 last_modified_at: 2025-05-22
 categories:
   - 
