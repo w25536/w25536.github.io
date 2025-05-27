@@ -1,0 +1,13 @@
+{
+  "editor.hover.enabled": false,
+  "editor.suggest.preview": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestionsDelay": 500
+} 

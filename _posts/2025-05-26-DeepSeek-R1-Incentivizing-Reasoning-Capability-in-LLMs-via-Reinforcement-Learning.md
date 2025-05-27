@@ -16,5 +16,9 @@ classes: wide
 
 
 
+![Refer to caption](https://arxiv.org/html/2501.12948v1/x1.png)
+
 A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., <think> reasoning process here </think> <answer> answer here </answer>. User: prompt. Assistant:
+
+![CleanShot 2025-05-27 at 10 36 21@2x](https://github.com/user-attachments/assets/1197569f-ddff-4652-aa8f-547b62de22ef)
 
