@@ -1,5 +1,5 @@
 ---
-title: "[팀프로잭트] Sementaic segmentation 이용한 Wall mask 마스크 고도화 및 추출"
+title: "[팀프로잭트] 중간 보고서 Sementaic segmentation 이용한 Wall mask 마스크 고도화 및 추출"
 last_modified_at: 2025-02-07
 categories:
   - 부트캠프

@@ -1,5 +1,5 @@
 ---
-title: "[논문분석] U-Net: Convolutional Networks for Biomedical"
+title: "[논문리뷰] U-Net: Convolutional Networks for Biomedical"
 last_modified_at: 2025-01-20
 categories:
   - 부트캠프

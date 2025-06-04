@@ -49,6 +49,8 @@ DOI: [10.48550/arXiv.2505.14146](https://doi.org/10.48550/arXiv.2505.14146)
 
 - GBR은 다음 공식으로 계산된다: GBR(Q) = Acc(G(Q, Ds3), A) - Acc(G(Q, DRAG), A) 
 
+![](https://velog.velcdn.com/images/u25536/post/d4936ee5-f28b-4d9f-9253-a7ab0dcee2cb/image.png)
+
 
 ## s3 프레임워크의 성능 평가 및 결과 
 
@@ -59,9 +61,11 @@ DOI: [10.48550/arXiv.2505.14146](https://doi.org/10.48550/arXiv.2505.14146)
 - s3의 의료 QA에서의 제로샷 성공은 일반 QA 데이터에서만 훈련되었음에도 불구하고, 강화 학습으로 학습된 검색 스킬이 생성 튜닝 접근 방식보다 더 신뢰할 수 있게 일반화됨을 시사한다
 
 - 결론적으로, 검색을 생성과 분리하고 검색기만 최적화함으로써 s3는 효율성과 일반화 모두에서 상당한 이득을 얻으며, RAG 시스템 개선을 위한 확장 가능한 경로를 제공한다
+
+![](https://velog.velcdn.com/images/u25536/post/47ad6eff-3273-4139-a125-72e9b8f1eadb/image.png)
  
 
-
+![](https://velog.velcdn.com/images/u25536/post/70bd73a3-649c-4f6b-9fa4-d1ced207af37/image.png)
 ## s3 프레임워크의 한계 및 향후 연구 방향
 
 - GenAcc와 같은 생성 기반 보상의 사용은 보상 신호를 계산하기 위해 훈련 중에 LLM 추론이 필요하다
