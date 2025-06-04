@@ -1,5 +1,5 @@
 ---
-title: "[논문 리뷰] Adding Conditional Control to Text-to-Image Diffusion Models"
+title: "[논문리뷰] Adding Conditional Control to Text-to-Image Diffusion Models"
 last_modified_at: 2025-01-29
 categories:
   - 부트캠프
@@ -19,7 +19,7 @@ tags:
   - 자격증
   - 머신러닝
   - 빅데이터
-excerpt: "논문 리뷰 : Adding Conditional Control to Text-to-Image Diffusion Models 정리"
+excerpt: "[논문 리뷰] Adding Conditional Control to Text-to-Image Diffusion Models 정리"
 use_math: true
 classes: wide
 ---
