@@ -1,5 +1,5 @@
 ---
-title: "Transformers: AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE 논문 분석"
+title: "[논문리뷰] Transformers: AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE 논문 분석"
 last_modified_at: 2025-01-24
 categories:
   - 부트캠프
