@@ -26,7 +26,7 @@ DOI: [10.48550/arXiv.2505.14146](https://doi.org/10.48550/arXiv.2505.14146)
 
 
 
-![review-image | 500](https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/s3-you-dont-need-that-much-data-to-train-a-search-agent-via-rl-0.png)
+![review-image](https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/s3-you-dont-need-that-much-data-to-train-a-search-agent-via-rl-0.png)
 
 ## 서론 
 
