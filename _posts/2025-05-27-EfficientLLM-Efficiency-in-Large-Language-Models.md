@@ -63,7 +63,7 @@ classes: wide
 
 ### 6.1 용도별 최적 구성
 - **최고 성능**: MLA attention을 사용한 표준 LLM
-- **모바일 환경**: MQA + Mamba + INT4 양자화
+- **모바일 환경**: MQA or Mamba + INT4 양자화
 
 ### 6.2 적용 범위
 - 텍스트 생성 모델
