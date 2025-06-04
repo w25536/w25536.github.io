@@ -1,5 +1,5 @@
 ---
-title: "AI 심화 day6"
+title: "AI Transformer (상) day 06"
 last_modified_at: 2025-01-24
 categories:
   - 부트캠프

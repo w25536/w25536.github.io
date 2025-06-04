@@ -1,5 +1,5 @@
 ---
-title: "ai day7"
+title: "AI transformer (상) day 07"
 last_modified_at: 2025-01-25
 categories:
   - 부트캠프

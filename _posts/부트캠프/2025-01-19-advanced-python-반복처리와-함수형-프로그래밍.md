@@ -1,5 +1,5 @@
 ---
-title: "Advanced Python: 반복처리와 함수형 프로그래밍"
+title: "Advanced Python - 반복처리와 함수형 프로그래밍"
 last_modified_at: 2025-01-19
 categories:
   - 부트캠프
