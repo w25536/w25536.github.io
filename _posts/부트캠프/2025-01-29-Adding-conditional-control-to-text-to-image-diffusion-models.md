@@ -1,5 +1,5 @@
 ---
-title: "논문 리뷰 : Adding Conditional Control to Text-to-Image Diffusion Models"
+title: "[논문 리뷰] Adding Conditional Control to Text-to-Image Diffusion Models"
 last_modified_at: 2025-01-29
 categories:
   - 부트캠프
