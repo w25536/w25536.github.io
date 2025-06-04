@@ -1,5 +1,5 @@
 ---
-title: "U-Net: Convolutional Networks for Biomedical 논문분석"
+title: "[논문분석] U-Net: Convolutional Networks for Biomedical"
 last_modified_at: 2025-01-20
 categories:
   - 부트캠프
@@ -15,7 +15,7 @@ tags:
   - 자격증
   - 머신러닝
   - 빅데이터
-excerpt: "U-Net: Convolutional Networks for Biomedical 논문분석 정리"
+excerpt: "U-Net: Convolutional Networks for Biomedical"
 use_math: true
 classes: wide
 ---

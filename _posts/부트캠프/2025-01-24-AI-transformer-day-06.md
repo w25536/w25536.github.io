@@ -16,7 +16,7 @@ tags:
   - 딥러닝 자격증
   - 머신러닝
   - 빅데이터
-excerpt: "AI 심화 day6 정리"
+excerpt: "AI Transformer (상) day 06"
 use_math: true
 classes: wide
 ---
