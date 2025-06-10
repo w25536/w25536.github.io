@@ -61,7 +61,6 @@ for i, doc in enumerate(docs):
     print("Text:", doc.page_content)
     print("Metadata:", doc.metadata)
     print("-" * 80)
-
 ```
 
 ![](https://velog.velcdn.com/images/u25536/post/95ea7b26-19ec-4a86-9ecc-79c7b19fa55d/image.png)
