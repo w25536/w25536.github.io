@@ -53,7 +53,7 @@
         {% endfor %}
 
         <span class="nav__sub-title" v-on:click='togglec()'><a href="/categories/부트캠프"> 📒 부트캠프 ({{ site.categories['부트캠프'].size }})</a></span>
-        <span class="nav__sub-title" v-on:click='togglec()'><a href="/categories/1일1케글"> 1일1케글 ({{ site.categories['1일1케글'].size }})</a></span>
+        <span class="nav__sub-title" v-on:click='togglec()'><a href="/categories/하루케글"> 하루케글 ({{ site.categories['하루케글'].size }})</a></span>
         <!-- <span class="nav__sub-title" v-on:click='togglec()'><a href="/categories/공부">📒 공부 ({{ site.categories['공부'].size }})</a></span> -->
         <!-- <span class="nav__sub-title" v-on:click='togglec()'><a href="/categories/AI소식">🔥 AI소식 ({{ site.categories['AI소식'].size }})</a></span> -->
 
