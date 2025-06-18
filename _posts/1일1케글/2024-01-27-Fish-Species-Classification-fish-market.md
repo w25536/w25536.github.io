@@ -1,15 +1,12 @@
 ---
-title: "물고기 종류 분류 - Fish Species Classification"
+title: "Fish Species Classification"
 date: 2024-01-27
 last_modified_at: 2024-01-27
 categories:
   - 1일1케글
 tags:
-  - 머신러닝
-  - 분류
-  - 데이터사이언스
   - kaggle
-excerpt: "물고기의 크기와 무게 데이터를 활용한 물고기 종류 분류 프로젝트"
+excerpt: ""
 use_math: true
 classes: wide
 ---
