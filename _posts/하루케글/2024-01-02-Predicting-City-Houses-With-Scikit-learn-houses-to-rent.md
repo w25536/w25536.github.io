@@ -3,10 +3,8 @@ title: "Predicting City Houses With Scikit-learn houses to rent"
 date: 2024-01-02
 last_modified_at: 2024-01-02
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
-  - 머신러닝
-  - 데이터사이언스
   - kaggle
 excerpt: "Predicting City Houses With Scikit-learn houses to rent 프로젝트"
 use_math: true

@@ -3,7 +3,7 @@ title: "Predicting Student Grades student alcohol consumption"
 date: 2024-01-16
 last_modified_at: 2024-01-16
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

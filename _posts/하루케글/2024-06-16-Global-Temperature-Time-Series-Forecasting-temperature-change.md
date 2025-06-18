@@ -3,7 +3,7 @@ title: "Global Temperature Time Series Forecasting temperature change"
 date: 2024-06-16
 last_modified_at: 2024-06-16
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

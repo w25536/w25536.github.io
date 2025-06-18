@@ -3,7 +3,7 @@ title: "Predicting Age From Food Preference food preferences"
 date: 2024-02-03
 last_modified_at: 2024-02-03
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

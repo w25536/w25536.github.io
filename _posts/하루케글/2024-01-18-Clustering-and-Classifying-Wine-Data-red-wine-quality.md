@@ -3,7 +3,7 @@ title: "Clustering and Classifying Wine Data red wine quality"
 date: 2024-01-18
 last_modified_at: 2024-01-18
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

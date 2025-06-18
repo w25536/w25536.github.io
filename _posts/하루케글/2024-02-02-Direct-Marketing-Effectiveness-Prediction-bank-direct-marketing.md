@@ -3,7 +3,7 @@ title: "Direct Marketing Effectiveness Prediction bank direct marketing"
 date: 2024-02-02
 last_modified_at: 2024-02-02
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

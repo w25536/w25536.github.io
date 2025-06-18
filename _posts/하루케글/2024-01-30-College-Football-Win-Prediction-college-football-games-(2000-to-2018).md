@@ -3,7 +3,7 @@ title: "College Football Win Prediction college football games (2000 to 2018)"
 date: 2024-01-30
 last_modified_at: 2024-01-30
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

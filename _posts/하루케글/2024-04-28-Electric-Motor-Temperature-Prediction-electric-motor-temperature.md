@@ -3,7 +3,7 @@ title: "Electric Motor Temperature Prediction electric motor temperature"
 date: 2024-04-28
 last_modified_at: 2024-04-28
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

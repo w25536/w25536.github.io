@@ -3,7 +3,7 @@ title: "Marvel or DC marvel vs dc"
 date: 2024-02-04
 last_modified_at: 2024-02-04
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

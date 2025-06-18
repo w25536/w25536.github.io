@@ -3,7 +3,7 @@ title: "Analyzing Diamond Price Data diamonds"
 date: 2024-01-05
 last_modified_at: 2024-01-05
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

@@ -3,7 +3,7 @@ title: "Mall Customer Data Market Segmentation Mall Customers"
 date: 2024-01-10
 last_modified_at: 2024-01-10
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

@@ -3,7 +3,7 @@ title: "Predicting FIFA Man of the Match predict fifa 2018 man of the match"
 date: 2024-01-15
 last_modified_at: 2024-01-15
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

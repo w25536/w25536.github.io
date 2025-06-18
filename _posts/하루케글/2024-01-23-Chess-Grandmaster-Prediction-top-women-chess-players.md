@@ -3,7 +3,7 @@ title: "Chess Grandmaster Prediction top women chess players"
 date: 2024-01-23
 last_modified_at: 2024-01-23
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

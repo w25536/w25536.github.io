@@ -3,7 +3,7 @@ title: "Predicting Breakfast Cereal Ratings 80 cereals"
 date: 2024-03-02
 last_modified_at: 2024-03-02
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스

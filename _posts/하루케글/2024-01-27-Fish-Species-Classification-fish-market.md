@@ -3,7 +3,7 @@ title: "Fish Species Classification"
 date: 2024-01-27
 last_modified_at: 2024-01-27
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - kaggle
 excerpt: ""

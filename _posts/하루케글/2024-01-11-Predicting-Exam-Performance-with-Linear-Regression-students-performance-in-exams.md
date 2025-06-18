@@ -3,7 +3,7 @@ title: "Predicting Exam Performance with Linear Regression students performance 
 date: 2024-01-11
 last_modified_at: 2024-01-11
 categories:
-  - 1일1케글
+  - 하루케글
 tags:
   - 머신러닝
   - 데이터사이언스
